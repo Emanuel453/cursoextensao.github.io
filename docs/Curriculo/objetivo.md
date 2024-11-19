@@ -4,6 +4,6 @@
 
 gol do palmeiras
 
-!!! Derrota
+!!! default
 
 Gol do Flamengoa
