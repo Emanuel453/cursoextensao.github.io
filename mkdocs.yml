@@ -1,4 +1,4 @@
-site_name: teste
+site_name: Portfólio Emanuel
 site_url: 
 theme:
     name: material
@@ -66,7 +66,8 @@ theme:
 nav:
     - Introduction:
         - Welcome: index.md
-
+    - Curriculo:
+        - objetivo: Curriculo/objetivo.md
 markdown_extensions:
     - md_in_html
     - admonition
@@ -81,5 +82,5 @@ markdown_extensions:
         permalink: "#"
 
 # Configuration
-repo_url: 
-repo_name: 
+repo_url: https://github.com/Emanuel453/cursoextensao.github.io
+repo_name: Portfólio Emanuel
