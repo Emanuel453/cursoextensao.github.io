@@ -4,6 +4,6 @@
 
 gol do palmeiras
 
-!!! default
+!!! Sucesso
 
-Gol do Flamengoa
+Gol do Flamengo
