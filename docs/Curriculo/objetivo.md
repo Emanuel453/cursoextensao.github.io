@@ -6,4 +6,4 @@ gol do palmeiras
 
 !!! Derrota
 
-Gol do Flamengo
+Gol do Flamengoa
